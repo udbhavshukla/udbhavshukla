@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Udbhav Shukla
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 I’m currently learning HTML | CSS | JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
